@@ -171,21 +171,20 @@ Authors must report in the submission site any conflicts with program committee 
     - Zeta Avarikioti, TU Vienna & Common Prefix
     - Dionysis Zindros, Common Prefix
 - **Program Committee**
-    - Michelle Yeo, National University of Singapore
-    - Giulia Scaffino, TU Wien & Common Prefix
-    - Jason Milionis, Columbia University
-    - Lioba Heimbach, ETH Zurich
-    - Srivatsan Sridhar, Stanford University
-    - Yvonne-Anne Pignolet, DFINITY Foundation
-    - Lefteris Kokoris-Kogias, Mysten Labs
-    - Orfeas Stefanos Thyfronitis Litos, Imperial College London
-    - Chrysoula Stathakopoulou, Chainlink
-    - Matteo Maffei, TU Wien
-    - Stefanie Roos, TU Delft
-    - Dimitris Karakostas, University of Edinburgh
-    - Roger Wattenhofer, ETH Zurich
     - Lukas Aumayr, TU Wien
+    - Lioba Heimbach, ETH Zurich
+    - Dimitris Karakostas, University of Edinburgh
     - Aggelos Kiayias, University of Edinburgh & IOG
     - Georgios Konstantopoulos, Paradigm
+    - Matteo Maffei, TU Wien
+    - Jason Milionis, Columbia University
+    - Yvonne-Anne Pignolet, DFINITY Foundation
+    - Stefanie Roos, TU Delft
     - Tim Roughgarden, Columbia University & a16z crypto
-
+    - Giulia Scaffino, TU Wien & Common Prefix
+    - Srivatsan Sridhar, Stanford University
+    - Chrysoula Stathakopoulou, Chainlink
+    - Orfeas Stefanos Thyfronitis Litos, Imperial College London
+    - Roger Wattenhofer, ETH Zurich
+    - Michelle Yeo, National University of Singapore
+    - Dionysis Zindros, Common Prefix
