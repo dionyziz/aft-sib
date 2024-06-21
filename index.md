@@ -175,7 +175,9 @@ Authors must report in the submission site any conflicts with program committee 
     - Lioba Heimbach, ETH Zurich
     - Dimitris Karakostas, University of Edinburgh
     - Aggelos Kiayias, University of Edinburgh & IOG
+    - Lefteris Kokoris-Kogias, Mysten Labs
     - Georgios Konstantopoulos, Paradigm
+    - Gregory Neven, Chainlink
     - Matteo Maffei, TU Wien
     - Jason Milionis, Columbia University
     - Yvonne-Anne Pignolet, DFINITY Foundation
