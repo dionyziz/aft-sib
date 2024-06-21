@@ -189,4 +189,3 @@ Authors must report in the submission site any conflicts with program committee 
     - Orfeas Stefanos Thyfronitis Litos, Imperial College London
     - Roger Wattenhofer, ETH Zurich
     - Michelle Yeo, National University of Singapore
-    - Dionysis Zindros, Common Prefix
