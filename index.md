@@ -38,7 +38,7 @@ The goal of SIB is to discuss state-of-the-art scalability and interoperability 
 
 The conference is co-organized with [AFT 2024](https://aftconf.github.io/aft24/index.html).
 
-Call for papers[:](https://www.sbc-conference.com/#cfp)   submission deadline 10th of July.
+Call for papers: submission deadline 10th of July.
 
 Conference Date: 26 September 2024.
 
