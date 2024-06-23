@@ -158,8 +158,8 @@ Please submit a detailed technical paper that describes a novel contribution to 
 * Please use Portable Document Format (.pdf).
 * You must use the [LIPIcs](https://www.dagstuhl.de/en/publishing/series/details/LIPIcs) format
 * Submissions are limited to twelve (12) pages, excluding appendices and references. Appendices and references are unlimited.
-* Papers must be anonymized by omitting the author names in the pdf. Author names will be recorded in HotCRP but not displayed to the reviewers.
-* If you have any conflict of interest with a member of the program committee, please note it in the designated section of the HotCRP submission form.
+* Papers must be anonymized by omitting the author names in the pdf. Author names will be recorded in EasyChair but not displayed to the reviewers.
+* If you have any conflict of interest with a member of the program committee, please note it in the designated section of the EasyChair submission form.
 * All submissions may be automatically checked for conformance to these requirements. Failure to adhere to the page limit, formatting requirements, or anonymization are grounds for immediate rejection.
 * Appendices will be read at the reviewers' discretion.
 
