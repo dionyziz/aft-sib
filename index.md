@@ -46,7 +46,9 @@ Venue: Austrian National Bank (OeNB), Vienna, Austria.
 
 Registration: €100 for workshop only. €50 extra if you are already attending AFT. Plus €50 for late registration. Please [visit the AFT website](https://aftconf.github.io/aft24/index.html) to register.
 
-[Register](https://aftconf.github.io/aft24/index.html)
+<div style='font-size: 120%; padding: 1em; margin: 1em auto; border: 1px solid #999; width: 500px; text-align: center; border-radius: 15px; background-color: #eee; font-weight: bold'>
+    <a href='https://aftconf.github.io/aft24/index.html'>Register</a>
+</div>
 
 Accommodations: Please see the AFT website for more information
 
@@ -73,7 +75,11 @@ Attending remotely: No remote attendance will be possible.
 
 ##### **Submission site**
 
-PDF submissions can be submitted at HotCRP. The submission server will be available soon.
+PDF submissions can be submitted at EasyChair:
+
+<div style='font-size: 120%; padding: 1em; margin: 1em auto; border: 1px solid #999; width: 500px; text-align: center; border-radius: 15px; background-color: #eee; font-weight: bold'>
+    <a href='https://easychair.org/conferences/submission_new?a=33079892#%7Bfr:syA3SExcvKfq%7D'>Submit</a>
+</div>
 
 **Important Dates**
 
