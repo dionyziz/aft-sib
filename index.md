@@ -46,9 +46,9 @@ Venue: Austrian National Bank (OeNB), Vienna, Austria.
 
 Registration: €100 for workshop only. €50 extra if you are already attending AFT. Plus €50 for late registration. Please [visit the AFT website](https://aftconf.github.io/aft24/index.html) to register.
 
-<div style='font-size: 120%; padding: 1em; margin: 1em auto; border: 1px solid #999; width: 500px; text-align: center; border-radius: 15px; background-color: #eee; font-weight: bold'>
+<button>
     <a href='https://aftconf.github.io/aft24/index.html'>Register</a>
-</div>
+</button>
 
 Accommodations: Please see the AFT website for more information
 
@@ -77,9 +77,9 @@ Attending remotely: No remote attendance will be possible.
 
 PDF submissions can be submitted at EasyChair:
 
-<div style='font-size: 120%; padding: 1em; margin: 1em auto; border: 1px solid #999; width: 500px; text-align: center; border-radius: 15px; background-color: #eee; font-weight: bold'>
+<button>
     <a href='https://easychair.org/conferences/submission_new?a=33079892#%7Bfr:syA3SExcvKfq%7D'>Submit</a>
-</div>
+</button>
 
 **Important Dates**
 
@@ -156,7 +156,7 @@ Please submit a detailed technical paper that describes a novel contribution to 
 
 
 * Please use Portable Document Format (.pdf).
-* You must use the LIPIcs format (see [https://www.dagstuhl.de/en/publishing/series/details/LIPIcs](https://www.dagstuhl.de/en/publishing/series/details/LIPIcs))
+* You must use the [LIPIcs](https://www.dagstuhl.de/en/publishing/series/details/LIPIcs) format
 * Submissions are limited to twelve (12) pages, excluding appendices and references. Appendices and references are unlimited.
 * Papers must be anonymized by omitting the author names in the pdf. Author names will be recorded in HotCRP but not displayed to the reviewers.
 * If you have any conflict of interest with a member of the program committee, please note it in the designated section of the HotCRP submission form.
