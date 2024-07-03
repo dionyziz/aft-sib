@@ -163,6 +163,8 @@ Please submit a detailed technical paper that describes a novel contribution to 
 * All submissions may be automatically checked for conformance to these requirements. Failure to adhere to the page limit, formatting requirements, or anonymization are grounds for immediate rejection.
 * Appendices will be read at the reviewers' discretion.
 
+Papers presented at the workshop require the registration of at least one author of the accepted paper at the workshop by the regular deadline of September 2nd, 2024.
+
 **Conflict of Interest**
 
 Authors must report in the submission site any conflicts with program committee members. A conflict exists if an author has the same affiliation as a committee member, has ever acted as their PhD supervisor or been supervised by them, has a close personal relationship with them, or if they have been co-authors on a paper within the past two years.
