@@ -78,7 +78,7 @@ Attending remotely: No remote attendance will be possible.
 PDF submissions can be submitted at EasyChair:
 
 <button>
-    <a href='https://easychair.org/conferences/submission_new?a=33079892#%7Bfr:syA3SExcvKfq%7D'>Submit</a>
+    <a href='https://easychair.org/my/conference?conf=sib24'>Submit</a>
 </button>
 
 **Important Dates**
