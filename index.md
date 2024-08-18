@@ -192,5 +192,5 @@ Authors must report in the submission site any conflicts with program committee 
     - Srivatsan Sridhar, Stanford University
     - Chrysoula Stathakopoulou, Chainlink
     - Orfeas Stefanos Thyfronitis Litos, Imperial College London
-    - Roger Wattenhofer, ETH Zurich
+    - Yann Vonlanthen, ETH Zurich
     - Michelle Yeo, National University of Singapore
