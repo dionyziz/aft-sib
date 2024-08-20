@@ -3,29 +3,6 @@ layout: default
 title: Scalability & Interoperability of Blockchains - SIB workshop
 ---
 
-<!-----
-
-
-
-Conversion time: 0.81 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β36
-* Fri May 24 2024 06:54:45 GMT-0700 (PDT)
-* Source doc: AFT 2024 workshop: SIB
------>
-
-
-
 # Workshop on Scalability & Interoperability of Blockchains (SIB)
 
 SIB is a workshop on the scalability and interoperability of blockchains.
@@ -86,7 +63,7 @@ PDF submissions can be submitted at EasyChair:
 
 
 * Talk submission deadline: July 10th
-* Final acceptance notification: August 24th
+* Final acceptance notification: August 27th
 * Conference: September 26th
 
 
