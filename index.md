@@ -159,9 +159,10 @@ Authors must report in the submission site any conflicts with program committee 
     - Aggelos Kiayias, University of Edinburgh & IOG
     - Lefteris Kokoris-Kogias, Mysten Labs
     - Georgios Konstantopoulos, Paradigm
-    - Gregory Neven, Chainlink
     - Matteo Maffei, TU Wien
     - Jason Milionis, Columbia University
+    - Gregory Neven, Chainlink
+    - Christina Ovezik, University of Edinburgh
     - Yvonne-Anne Pignolet, DFINITY Foundation
     - Stefanie Roos, TU Delft
     - Tim Roughgarden, Columbia University & a16z crypto
