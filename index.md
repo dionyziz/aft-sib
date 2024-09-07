@@ -52,39 +52,39 @@ Attending remotely: No remote attendance will be possible.
 
 **10:20-11:00** - Session 1
 - **[MUSEN: Aggregatable Key-Evolving Verifiable Random Functions and Applications](https://eprint.iacr.org/2024/628.pdf)**
-  - Bernardo David, Rafael Dowsley, Anders Konring and Mario Larangeira
+  - Bernardo David (IT University of Copenhagen and Common Prefix), Rafael Dowsley (Monash University), Anders Konring (Espresso Systems) and Mario Larangeira (Tokyo Institute of Technology and IOHK)
 - **[On-Chain Timestamps Are Accurate](https://eprint.iacr.org/2023/1648.pdf)**
-  - Apostolos Tzinas, Dionysis Zindros and Srivatsan Sridhar
+  - Apostolos Tzinas (National Technical University of Athens and Common Prefix), Dionysis Zindros (Common Prefix) and Srivatsan Sridhar (Stanford University)
 
 **11:00-11:30** - Break
 
 **11:30-12:30** - Session 2
 - **On the Lifecycle of a Lightning Network Payment Channel**
-  - Florian Grötschla, Lioba Heimbach, Severin Richner and Roger Wattenhofer
+  - Florian Grötschla (ETH Zurich), Lioba Heimbach (ETH Zurich), Severin Richner (ETH Zurich) and Roger Wattenhofer (ETH Zurich)
 - **[Boosting Liquidity in Payment Channel Networks with Online Admission Control](https://fc23.ifca.ai/preproceedings/57.pdf)**
-  - Mahsa Bastankhah, Krishnendu Chatterjee, Mohammad Ali Maddah-Ali, Stefan Schmid, Jakub Svoboda and Michelle Yeo
+  - Mahsa Bastankhah (Princeton University), Krishnendu Chatterjee (IST Austria), Mohammad Ali Maddah-Ali (University of Minnesota Twin Cities), Stefan Schmid (TU Berlin), Jakub Svoboda (IST Austria) and Michelle Yeo (IST Austria)
 - **[Securing Lightning Channels against Rational Miners](https://eprint.iacr.org/2024/826.pdf)**
-  - Lukas Aumayr, Zeta Avarikioti, Matteo Maffei and Subhra Mazumdar
+  - Lukas Aumayr (TU Wien and Common Prefix), Zeta Avarikioti (TU Wien and Common Prefix), Matteo Maffei (TU Wien) and Subhra Mazumdar (Indian Institute of Technology Indore)
 
 **12:30-14:00** - Lunch Break
 
 **14:00-15:00** - Session 3
 - **[Blink: An Optimal Proof of Proof-of-Work](https://eprint.iacr.org/2024/692.pdf)**
-  - Giulia Scaffino, Lukas Aumayr, Zeta Avarikioti, Dionysis Zindros and Matteo Maffei
+  - Giulia Scaffino (TU Wien and Common Prefix), Lukas Aumayr (TU Wien and Common Prefix), Zeta Avarikioti (TU Wien and Common Prefix), Dionysis Zindros (Common Prefix) and Matteo Maffei (TU Wien)
 - **[Remote Staking with Economic Safety](https://arxiv.org/pdf/2408.01896)**
-  - Xinshu Dong, Ertem Nusret Tas, Orfeas Stefanos Thyfronitis Litos, David Tse, Robin Linus Woll, Lei Yang and Mingchao Yu
+  - Xinshu Dong (BabylonChain), Ertem Nusret Tas (Stanford University), Orfeas Stefanos Thyfronitis Litos (Common Prefix), David Tse (BabylonChain), Robin Linus Woll (ZeroSync), Lei Yang (BabylonChain) and Mingchao Yu (BabylonChain)
 - **[Unconditionally Safe Light Client](https://arxiv.org/pdf/2405.01459)**
-  - Niusha Moshrefi, Peiyao Sheng, Soubhik Deb, Sreeram Kannan and Pramod Viswanath
+  - Niusha Moshrefi (Princeton University), Peiyao Sheng (University of Illinois Urbana–Champaign), Soubhik Deb (Eigen Labs), Sreeram Kannan (Eigen Labs) and Pramod Viswanath (Princeton University)
 
 **15:00-15:30** - Break
 
 **15:30-16:30** - Session 4
 - **Pythia: Supercharging Parallel Smart Contract Execution to Guide Stragglers and Full Nodes to Safety**
-  - Ray Neiheiser, Arman Babaei, Giannis Alexopoulos, Marios Kogias and Eleftherios Kokoris Kogias
+  - Ray Neiheiser (IST Austria), Arman Babaei (IST Austria), Giannis Alexopoulos (IST Austria), Marios Kogias (Imperial College London) and Eleftherios Kokoris Kogias (Mysten Labs)
 - **[Aegis: A Decentralized Expansion Blockchain](https://arxiv.org/pdf/2406.05904)**
-  - Yogev Bar-On, Roi Bar-Zur, Omer Ben-Porat, Nimrod Cohen, Ittay Eyal and Matan Sitbon
+  - Yogev Bar-On (Tel Aviv University and eOracle), Roi Bar-Zur (Technion and eOracle), Omer Ben-Porat (Technion), Nimrod Cohen (eOracle), Ittay Eyal (Technion) and Matan Sitbon (eOracle)
 - **DeCl: Deterministic and Metered Native Sandboxes**
-  - Zachary Yedidia, Geoffrey Ramseyer and David Mazieres
+  - Zachary Yedidia (Stanford University), Geoffrey Ramseyer (Stanford University) and David Mazieres (Stanford University)
 
 **16:30** - Closing remarks
 
