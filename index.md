@@ -191,8 +191,9 @@ Authors must report in the submission site any conflicts with program committee 
 ### **Organizing Committee**
 
 - **Program Chairs**
-    - Zeta Avarikioti, TU Vienna & Common Prefix
-    - Dionysis Zindros, Common Prefix
+    - **Chair**: Zeta Avarikioti, TU Vienna & Common Prefix
+    - **Chair**: Dionysis Zindros, Common Prefix
+    - **Co-chair**: Jason Milionis, Columbia University
 - **Program Committee**
     - Lukas Aumayr, TU Wien
     - Lioba Heimbach, ETH Zurich
@@ -201,7 +202,6 @@ Authors must report in the submission site any conflicts with program committee 
     - Lefteris Kokoris-Kogias, Mysten Labs
     - Georgios Konstantopoulos, Paradigm
     - Matteo Maffei, TU Wien
-    - Jason Milionis, Columbia University
     - Gregory Neven, Chainlink
     - Christina Ovezik, University of Edinburgh
     - Yvonne-Anne Pignolet, DFINITY Foundation
