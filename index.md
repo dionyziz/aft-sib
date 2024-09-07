@@ -43,9 +43,50 @@ Attending remotely: No remote attendance will be possible.
 * **[Economics of Payments XIII](https://www.oenb.at/Termine/2024/2024-09-25-27-economics-of-payments-xiii.html) (EoP)**
 * **Workshop on Stability of Payments**
 
+### **Program**
+**Thursday, September 26, 2024**
 
----
+**9:00-9:30** - Coffee
 
+**9:30-10:20** - Keynote (TBD)
+
+**10:20-11:00** - Session 1
+- **[MUSEN: Aggregatable Key-Evolving Verifiable Random Functions and Applications](https://eprint.iacr.org/2024/628.pdf)**
+  - Bernardo David, Rafael Dowsley, Anders Konring and Mario Larangeira
+- **[On-Chain Timestamps Are Accurate](https://eprint.iacr.org/2023/1648.pdf)**
+  - Apostolos Tzinas, Dionysis Zindros and Srivatsan Sridhar
+
+**11:00-11:30** - Break
+
+**11:30-12:30** - Session 2
+- **On the Lifecycle of a Lightning Network Payment Channel**
+  - Florian Grötschla, Lioba Heimbach, Severin Richner and Roger Wattenhofer
+- **[Boosting Liquidity in Payment Channel Networks with Online Admission Control](https://fc23.ifca.ai/preproceedings/57.pdf)**
+  - Mahsa Bastankhah, Krishnendu Chatterjee, Mohammad Ali Maddah-Ali, Stefan Schmid, Jakub Svoboda and Michelle Yeo
+- **[Securing Lightning Channels against Rational Miners](https://eprint.iacr.org/2024/826.pdf)**
+  - Lukas Aumayr, Zeta Avarikioti, Matteo Maffei and Subhra Mazumdar
+
+**12:30-14:00** - Lunch Break
+
+**14:00-15:00** - Session 3
+- **[Blink: An Optimal Proof of Proof-of-Work](https://eprint.iacr.org/2024/692.pdf)**
+  - Giulia Scaffino, Lukas Aumayr, Zeta Avarikioti, Dionysis Zindros and Matteo Maffei
+- **[Remote Staking with Economic Safety](https://arxiv.org/pdf/2408.01896)**
+  - Xinshu Dong, Ertem Nusret Tas, Orfeas Stefanos Thyfronitis Litos, David Tse, Robin Linus Woll, Lei Yang and Mingchao Yu
+- **[Unconditionally Safe Light Client](https://arxiv.org/pdf/2405.01459)**
+  - Niusha Moshrefi, Peiyao Sheng, Soubhik Deb, Sreeram Kannan and Pramod Viswanath
+
+**15:00-15:30** - Break
+
+**15:30-16:30** - Session 4
+- **Pythia: Supercharging Parallel Smart Contract Execution to Guide Stragglers and Full Nodes to Safety**
+  - Ray Neiheiser, Arman Babaei, Giannis Alexopoulos, Marios Kogias and Eleftherios Kokoris Kogias
+- **[Aegis: A Decentralized Expansion Blockchain](https://arxiv.org/pdf/2406.05904)**
+  - Yogev Bar-On, Roi Bar-Zur, Omer Ben-Porat, Nimrod Cohen, Ittay Eyal and Matan Sitbon
+- **DeCl: Deterministic and Metered Native Sandboxes**
+  - Zachary Yedidia, Geoffrey Ramseyer and David Mazieres
+
+**16:30** - Closing remarks
 
 ### **Call for papers**
 
