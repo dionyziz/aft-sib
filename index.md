@@ -51,10 +51,10 @@ Attending remotely: No remote attendance will be possible.
 **9:30-10:20** - Keynote (TBD)
 
 **10:20-11:00** - Session 1
+- **[Remote Staking with Economic Safety](https://arxiv.org/pdf/2408.01896)**
+  - Xinshu Dong (BabylonChain), Ertem Nusret Tas (Stanford University), Orfeas Stefanos Thyfronitis Litos (Common Prefix), David Tse (BabylonChain), Robin Linus Woll (ZeroSync), Lei Yang (BabylonChain) and Mingchao Yu (BabylonChain)
 - **[MUSEN: Aggregatable Key-Evolving Verifiable Random Functions and Applications](https://eprint.iacr.org/2024/628.pdf)**
   - Bernardo David (IT University of Copenhagen and Common Prefix), Rafael Dowsley (Monash University), Anders Konring (Espresso Systems) and Mario Larangeira (Tokyo Institute of Technology and IOHK)
-- **[On-Chain Timestamps Are Accurate](https://eprint.iacr.org/2023/1648.pdf)**
-  - Apostolos Tzinas (National Technical University of Athens and Common Prefix), Dionysis Zindros (Common Prefix) and Srivatsan Sridhar (Stanford University)
 
 **11:00-11:30** - Break
 
@@ -71,10 +71,10 @@ Attending remotely: No remote attendance will be possible.
 **14:00-15:00** - Session 3
 - **[Blink: An Optimal Proof of Proof-of-Work](https://eprint.iacr.org/2024/692.pdf)**
   - Giulia Scaffino (TU Wien and Common Prefix), Lukas Aumayr (TU Wien and Common Prefix), Zeta Avarikioti (TU Wien and Common Prefix), Dionysis Zindros (Common Prefix) and Matteo Maffei (TU Wien)
-- **[Remote Staking with Economic Safety](https://arxiv.org/pdf/2408.01896)**
-  - Xinshu Dong (BabylonChain), Ertem Nusret Tas (Stanford University), Orfeas Stefanos Thyfronitis Litos (Common Prefix), David Tse (BabylonChain), Robin Linus Woll (ZeroSync), Lei Yang (BabylonChain) and Mingchao Yu (BabylonChain)
 - **[Unconditionally Safe Light Client](https://arxiv.org/pdf/2405.01459)**
   - Niusha Moshrefi (Princeton University), Peiyao Sheng (University of Illinois Urbana–Champaign), Soubhik Deb (Eigen Labs), Sreeram Kannan (Eigen Labs) and Pramod Viswanath (Princeton University)
+- **[On-Chain Timestamps Are Accurate](https://eprint.iacr.org/2023/1648.pdf)**
+  - Apostolos Tzinas (National Technical University of Athens and Common Prefix), Dionysis Zindros (Common Prefix) and Srivatsan Sridhar (Stanford University)
 
 **15:00-15:30** - Break
 
