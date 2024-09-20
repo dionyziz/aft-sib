@@ -48,9 +48,14 @@ Attending remotely: No remote attendance will be possible.
 
 **9:00-9:30** - Coffee
 
-**9:30-10:20** - Keynote (TBD)
+**9:30-10:20** - Keynote: **Bitcoin Staking**
+
+Speaker: **David Tse**
 
 **10:20-11:00** - Session 1
+
+Chair: **Giulia Scaffino**
+
 - **[Remote Staking with Economic Safety](https://arxiv.org/pdf/2408.01896)**
   - Xinshu Dong (BabylonChain), Ertem Nusret Tas (Stanford University), Orfeas Stefanos Thyfronitis Litos (Common Prefix), David Tse (BabylonChain), Robin Linus Woll (ZeroSync), Lei Yang (BabylonChain) and Mingchao Yu (BabylonChain)
 - **[MUSEN: Aggregatable Key-Evolving Verifiable Random Functions and Applications](https://eprint.iacr.org/2024/628.pdf)**
@@ -59,6 +64,9 @@ Attending remotely: No remote attendance will be possible.
 **11:00-11:30** - Break
 
 **11:30-12:30** - Session 2
+
+Chair: **Jason Milionis**
+
 - **On the Lifecycle of a Lightning Network Payment Channel**
   - Florian Grötschla (ETH Zurich), Lioba Heimbach (ETH Zurich), Severin Richner (ETH Zurich) and Roger Wattenhofer (ETH Zurich)
 - **[Boosting Liquidity in Payment Channel Networks with Online Admission Control](https://fc23.ifca.ai/preproceedings/57.pdf)**
@@ -69,6 +77,9 @@ Attending remotely: No remote attendance will be possible.
 **12:30-14:00** - Lunch Break
 
 **14:00-15:00** - Session 3
+
+Chair: **Lukas Aumayr**
+
 - **[Blink: An Optimal Proof of Proof-of-Work](https://eprint.iacr.org/2024/692.pdf)**
   - Giulia Scaffino (TU Wien and Common Prefix), Lukas Aumayr (TU Wien and Common Prefix), Zeta Avarikioti (TU Wien and Common Prefix), Dionysis Zindros (Common Prefix) and Matteo Maffei (TU Wien)
 - **[Unconditionally Safe Light Client](https://arxiv.org/pdf/2405.01459)**
@@ -79,6 +90,9 @@ Attending remotely: No remote attendance will be possible.
 **15:00-15:30** - Break
 
 **15:30-16:30** - Session 4
+
+Chair: **Orfeas Stefanos Thyfronitis Litos**
+
 - **Pythia: Supercharging Parallel Smart Contract Execution to Guide Stragglers and Full Nodes to Safety**
   - Ray Neiheiser (IST Austria), Arman Babaei (IST Austria), Giannis Alexopoulos (IST Austria), Marios Kogias (Imperial College London) and Eleftherios Kokoris Kogias (Mysten Labs)
 - **[Aegis: A Decentralized Expansion Blockchain](https://arxiv.org/pdf/2406.05904)**
@@ -191,25 +205,24 @@ Authors must report in the submission site any conflicts with program committee 
 ### **Organizing Committee**
 
 - **Program Chairs**
-    - **Chair**: Zeta Avarikioti, TU Vienna & Common Prefix
-    - **Chair**: Dionysis Zindros, Common Prefix
-    - **Co-chair**: Jason Milionis, Columbia University
+    - **Chair**: **Zeta Avarikioti**, TU Vienna & Common Prefix
+    - **Chair**: **Dionysis Zindros**, Common Prefix
+    - **Co-chair**: **Jason Milionis**, Columbia University
 - **Program Committee**
-    - Lukas Aumayr, TU Wien
-    - Lioba Heimbach, ETH Zurich
-    - Dimitris Karakostas, University of Edinburgh
-    - Aggelos Kiayias, University of Edinburgh & IOG
-    - Lefteris Kokoris-Kogias, Mysten Labs
-    - Georgios Konstantopoulos, Paradigm
-    - Matteo Maffei, TU Wien
-    - Gregory Neven, Chainlink
-    - Christina Ovezik, University of Edinburgh
-    - Yvonne-Anne Pignolet, DFINITY Foundation
-    - Stefanie Roos, TU Delft
-    - Tim Roughgarden, Columbia University & a16z crypto
-    - Giulia Scaffino, TU Wien & Common Prefix
-    - Srivatsan Sridhar, Stanford University
-    - Chrysoula Stathakopoulou, Chainlink
-    - Orfeas Stefanos Thyfronitis Litos, Imperial College London
-    - Yann Vonlanthen, ETH Zurich
-    - Michelle Yeo, National University of Singapore
+    - **Lukas Aumayr**, TU Wien
+    - **Lioba Heimbach**, ETH Zurich
+    - **Dimitris Karakostas**, University of Edinburgh
+    - **Aggelos Kiayias**, University of Edinburgh & IOG
+    - **Lefteris Kokoris-Kogias**, Mysten Labs
+    - **Matteo Maffei**, TU Wien
+    - **Gregory Neven**, Chainlink
+    - **Christina Ovezik**, University of Edinburgh
+    - **Yvonne-Anne Pignolet**, DFINITY Foundation
+    - **Stefanie Roos**, TU Delft
+    - **Tim Roughgarden**, Columbia University & a16z crypto
+    - **Giulia Scaffino**, TU Wien & Common Prefix
+    - **Srivatsan Sridhar**, Stanford University
+    - **Chrysoula Stathakopoulou**, Chainlink
+    - **Orfeas Stefanos Thyfronitis Litos**, Imperial College London
+    - **Yann Vonlanthen**, ETH Zurich
+    - **Michelle Yeo**, National University of Singapore
