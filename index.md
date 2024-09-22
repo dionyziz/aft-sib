@@ -44,15 +44,15 @@ Attending remotely: No remote attendance will be possible.
 * **Workshop on Stability of Payments**
 
 ### **Program**
-**Thursday, September 26, 2024**
+<div style="margin: 10px 0; padding: 5px; font-size: 1.5em;">Thursday, September 26, 2024</div>
 
-**9:00-9:30** - Coffee
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>9:00-9:30</strong> - Coffee</div>
 
-**9:30-10:20** - Keynote: **Bitcoin Staking**
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>9:30-10:20</strong> - Keynote: <strong>Bitcoin Staking</strong></div>
 
 Speaker: **David Tse**
 
-**10:20-11:00** - Session 1
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>10:20-11:00</strong> - Session 1</div>
 
 Chair: **Giulia Scaffino**
 
@@ -61,9 +61,9 @@ Chair: **Giulia Scaffino**
 - **[MUSEN: Aggregatable Key-Evolving Verifiable Random Functions and Applications](https://eprint.iacr.org/2024/628.pdf)**
   - Bernardo David (IT University of Copenhagen and Common Prefix), Rafael Dowsley (Monash University), Anders Konring (Espresso Systems) and Mario Larangeira (Tokyo Institute of Technology and IOHK)
 
-**11:00-11:30** - Break
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>11:00-11:30</strong> - Break</div>
 
-**11:30-12:30** - Session 2
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>11:30-12:30</strong> - Session 2</div>
 
 Chair: **Jason Milionis**
 
@@ -74,9 +74,9 @@ Chair: **Jason Milionis**
 - **[Securing Lightning Channels against Rational Miners](https://eprint.iacr.org/2024/826.pdf)**
   - Lukas Aumayr (TU Wien and Common Prefix), Zeta Avarikioti (TU Wien and Common Prefix), Matteo Maffei (TU Wien) and Subhra Mazumdar (Indian Institute of Technology Indore)
 
-**12:30-14:00** - Lunch Break
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>12:30-14:00</strong> - Lunch Break</div>
 
-**14:00-15:00** - Session 3
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>14:00-15:00</strong> - Session 3</div>
 
 Chair: **Lukas Aumayr**
 
@@ -87,9 +87,9 @@ Chair: **Lukas Aumayr**
 - **[On-Chain Timestamps Are Accurate](https://eprint.iacr.org/2023/1648.pdf)**
   - Apostolos Tzinas (National Technical University of Athens and Common Prefix), Dionysis Zindros (Common Prefix) and Srivatsan Sridhar (Stanford University)
 
-**15:00-15:30** - Break
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>15:00-15:30</strong> - Break</div>
 
-**15:30-16:30** - Session 4
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>15:30-16:30</strong> - Session 4</div>
 
 Chair: **Orfeas Stefanos Thyfronitis Litos**
 
@@ -100,7 +100,7 @@ Chair: **Orfeas Stefanos Thyfronitis Litos**
 - **DeCl: Deterministic and Metered Native Sandboxes**
   - Zachary Yedidia (Stanford University), Geoffrey Ramseyer (Stanford University) and David Mazieres (Stanford University)
 
-**16:30** - Closing remarks
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>16:30</strong> - Closing remarks</div>
 
 ### **Call for papers**
 
