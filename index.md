@@ -56,9 +56,9 @@ Speaker: **David Tse**
 
 Chair: **Giulia Scaffino**
 
-- **[Remote Staking with Economic Safety](papers/sib24_paper_21.pdf)**
+- **[Remote Staking with Economic Safety](papers/SIB24_paper_21.pdf)**
   - Xinshu Dong (BabylonChain), Ertem Nusret Tas (Stanford University), Orfeas Stefanos Thyfronitis Litos (Common Prefix), David Tse (BabylonChain), Robin Linus Woll (ZeroSync), Lei Yang (BabylonChain) and Mingchao Yu (BabylonChain)
-- **[MUSEN: Aggregatable Key-Evolving Verifiable Random Functions and Applications](papers/sib24_paper_1.pdf)**
+- **[MUSEN: Aggregatable Key-Evolving Verifiable Random Functions and Applications](papers/SIB24_paper_1.pdf)**
   - Bernardo David (IT University of Copenhagen and Common Prefix), Rafael Dowsley (Monash University), Anders Konring (Espresso Systems) and Mario Larangeira (Tokyo Institute of Technology and IOHK)
 
 <div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>11:00-11:30</strong> - Break</div>
@@ -67,11 +67,11 @@ Chair: **Giulia Scaffino**
 
 Chair: **Jason Milionis**
 
-- **[On the Lifecycle of a Lightning Network Payment Channel](papers/sib24_paper_2.pdf)**
+- **[On the Lifecycle of a Lightning Network Payment Channel](papers/SIB24_paper_2.pdf)**
   - Florian Grötschla (ETH Zurich), Lioba Heimbach (ETH Zurich), Severin Richner (ETH Zurich) and Roger Wattenhofer (ETH Zurich)
-- **[Boosting Liquidity in Payment Channel Networks with Online Admission Control](papers/sib24_paper_5.pdf)**
+- **[Boosting Liquidity in Payment Channel Networks with Online Admission Control](papers/SIB24_paper_5.pdf)**
   - Mahsa Bastankhah (Princeton University), Krishnendu Chatterjee (IST Austria), Mohammad Ali Maddah-Ali (University of Minnesota Twin Cities), Stefan Schmid (TU Berlin), Jakub Svoboda (IST Austria) and Michelle Yeo (IST Austria)
-- **[Securing Lightning Channels against Rational Miners](papers/sib24_paper_9.pdf)**
+- **[Securing Lightning Channels against Rational Miners](papers/SIB24_paper_9.pdf)**
   - Lukas Aumayr (TU Wien and Common Prefix), Zeta Avarikioti (TU Wien and Common Prefix), Matteo Maffei (TU Wien) and Subhra Mazumdar (Indian Institute of Technology Indore)
 
 <div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>12:30-14:00</strong> - Lunch Break</div>
@@ -80,11 +80,11 @@ Chair: **Jason Milionis**
 
 Chair: **Lukas Aumayr**
 
-- **[Blink: An Optimal Proof of Proof-of-Work](papers/sib24_paper_6.pdf)**
+- **[Blink: An Optimal Proof of Proof-of-Work](papers/SIB24_paper_6.pdf)**
   - Giulia Scaffino (TU Wien and Common Prefix), Lukas Aumayr (TU Wien and Common Prefix), Zeta Avarikioti (TU Wien and Common Prefix), Dionysis Zindros (Common Prefix) and Matteo Maffei (TU Wien)
-- **[Unconditionally Safe Light Client](papers/sib24_paper_22.pdf)**
+- **[Unconditionally Safe Light Client](papers/SIB24_paper_22.pdf)**
   - Niusha Moshrefi (Princeton University), Peiyao Sheng (University of Illinois Urbana–Champaign), Soubhik Deb (Eigen Labs), Sreeram Kannan (Eigen Labs) and Pramod Viswanath (Princeton University)
-- **[On-Chain Timestamps Are Accurate](papers/sib24_paper_10.pdf)**
+- **[On-Chain Timestamps Are Accurate](papers/SIB24_paper_10.pdf)**
   - Apostolos Tzinas (National Technical University of Athens and Common Prefix), Dionysis Zindros (Common Prefix) and Srivatsan Sridhar (Stanford University)
 
 <div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>15:00-15:30</strong> - Break</div>
@@ -93,11 +93,11 @@ Chair: **Lukas Aumayr**
 
 Chair: **Orfeas Stefanos Thyfronitis Litos**
 
-- **[Pythia: Supercharging Parallel Smart Contract Execution to Guide Stragglers and Full Nodes to Safety](papers/sib24_paper_4.pdf)**
+- **[Pythia: Supercharging Parallel Smart Contract Execution to Guide Stragglers and Full Nodes to Safety](papers/SIB24_paper_4.pdf)**
   - Ray Neiheiser (IST Austria), Arman Babaei (IST Austria), Giannis Alexopoulos (IST Austria), Marios Kogias (Imperial College London) and Eleftherios Kokoris Kogias (Mysten Labs)
-- **[Aegis: A Decentralized Expansion Blockchain](papers/sib24_paper_8.pdf)**
+- **[Aegis: A Decentralized Expansion Blockchain](papers/SIB24_paper_8.pdf)**
   - Yogev Bar-On (Tel Aviv University and eOracle), Roi Bar-Zur (Technion and eOracle), Omer Ben-Porat (Technion), Nimrod Cohen (eOracle), Ittay Eyal (Technion) and Matan Sitbon (eOracle)
-- **[DeCl: Deterministic and Metered Native Sandboxes](papers/sib24_paper_20.pdf)**
+- **[DeCl: Deterministic and Metered Native Sandboxes](papers/SIB24_paper_20.pdf)**
   - Zachary Yedidia (Stanford University), Geoffrey Ramseyer (Stanford University) and David Mazieres (Stanford University)
 
 <div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>16:30</strong> - Closing remarks</div>
