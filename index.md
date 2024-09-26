@@ -52,7 +52,7 @@ Attending remotely: No remote attendance will be possible.
 
 Speaker: **David Tse**
 
-<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>10:20-11:00</strong> - Session 1</div>
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>10:20-11:00</strong> - Session 1: Consensus Layer</div>
 
 Chair: **Giulia Scaffino**
 
@@ -63,7 +63,7 @@ Chair: **Giulia Scaffino**
 
 <div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>11:00-11:30</strong> - Break</div>
 
-<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>11:30-12:30</strong> - Session 2</div>
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>11:30-12:30</strong> - Session 2: Payment Channels</div>
 
 Chair: **Jason Milionis**
 
@@ -76,7 +76,7 @@ Chair: **Jason Milionis**
 
 <div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>12:30-14:00</strong> - Lunch Break</div>
 
-<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>14:00-15:00</strong> - Session 3</div>
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>14:00-15:00</strong> - Session 3: Interoperability</div>
 
 Chair: **Lukas Aumayr**
 
@@ -89,7 +89,7 @@ Chair: **Lukas Aumayr**
 
 <div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>15:00-15:30</strong> - Break</div>
 
-<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>15:30-16:30</strong> - Session 4</div>
+<div style="background-color: #e0e0e0; margin: 10px 0; padding: 5px; font-size: 1.2em;"><strong>15:30-16:30</strong> - Session 4: Execution Layer</div>
 
 Chair: **Orfeas Stefanos Thyfronitis Litos**
 
